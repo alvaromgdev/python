@@ -1,1 +1,0 @@
-print("KE PAZA PISHA")
