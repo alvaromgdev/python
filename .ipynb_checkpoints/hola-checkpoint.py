@@ -1,0 +1,1 @@
+print("KE PAZA PISHA")
